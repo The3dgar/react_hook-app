@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
   - src/components
 
-This examples are part from the [react: De cero a Experto (Hooks y MERN) course] https://www.udemy.com/course/react-cero-experto
+This examples are part from the [react: De cero a Experto (Hooks y MERN) course](https://www.udemy.com/course/react-cero-experto)
